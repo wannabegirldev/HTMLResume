@@ -1,0 +1,77 @@
+body {
+    background-image: url(light_noise_diagonal.png);
+}
+
+#gif {
+    height: 75px;
+    width: 75px;
+    position: relative;
+    top: -40px;
+    left: 360px;
+    z-index: 2; 
+}
+
+header {
+    width: 400px;
+    height: 190px;
+    border: 2px solid #C00;
+    background-color: #4795C8;
+    border-radius: 8px;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    font: 18px;
+    text-align: center;
+}
+
+.icons {
+    margin-left: 20px;
+    margin-right: 15px;
+    position: relative;
+}
+
+h2 {
+    font-family: 'Bangers', cursive;
+    font-size: 35px;
+    margin-bottom: 10px;
+}
+
+img {
+    height: 50px;
+    float: left;
+}
+
+h3 {
+    font-family: 'Bangers', cursive;
+    font-size: 25px;   
+}
+
+section {
+    width: 800px;
+    height: auto;
+    margin: 30px 10px 30px 30px;
+    padding: 25px 20px 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+    
+p {
+    margin-left: 25px;
+}
+
+.title {
+    font-weight: bold;
+}
+
+.references {
+    font-family: 'Bangers', cursive;
+    font-size: 18px;
+    height: 40px;   
+}
+
+#names {
+    margin-top: -20px;
+}
+
+
+
